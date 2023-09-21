@@ -1,3 +1,4 @@
+package ratingfirst;
 import java.util.Scanner;
 
 public class BitPlusPlus {
