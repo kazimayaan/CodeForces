@@ -1,4 +1,4 @@
-package ratingfirst;
+package eighthundred;
 import java.util.Scanner;
 
 public class NextRound {
