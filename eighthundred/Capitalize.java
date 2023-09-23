@@ -1,3 +1,4 @@
+package eighthundred;
 import java.util.Scanner;
 
 public class Capitalize {
